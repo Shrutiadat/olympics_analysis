@@ -5,11 +5,14 @@ This project analyzes the Olympics medal data from 1976 (Montreal) to 2008 (Beij
 
 The dataset includes medal winners with details like City, Year, Sport, Athlete, Gender, Country, and Medal type (Gold, Silver, Bronze).
 
+
 We cover:
+
 1. Data Cleaning & Exploration (Python)
 2. Insights & Visualizations (Python + Excel)
 3. SQL Queries for medal statistics
 4.Machine Learning model to predict Gold vs Non-Gold medals
+
 
 ** Dataset **
 
@@ -27,11 +30,13 @@ Columns used in analysis:
 . Event_gender – Event type (Men/Women/Mixed)
 . Medal – Medal type (Gold/Silver/Bronze)
 
+
 ** Tools & Technologies
 . Python → Data Cleaning, EDA, Visualizations
 . SQL (SQLite) → Medal statistics queries
 . Excel → Pivot tables and dashboards
 . Machine Learning (Scikit-learn) → Predicting Gold vs Non-Gold medals
+
 
 Step 1: Python (EDA & Visualizations)
 Data Cleaning
@@ -43,6 +48,7 @@ Step 3: Excel (Pivot Tables & Charts)
 We export the dataset to Excel for reporting.
 
 In Excel:
+
 Pivot Table → Rows: Country | Values: Medal (Count)
     Shows total medals per country.
 
@@ -55,6 +61,7 @@ Charts:
 
 Step 4: Machine Learning (Predict Gold vs Non-Gold)
 We build a Decision Tree Classifier to predict if a medal will be Gold (1) or not (0).
+
 
 
 Final Insights :
