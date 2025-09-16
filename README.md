@@ -57,7 +57,8 @@ Step 4: Machine Learning (Predict Gold vs Non-Gold)
 We build a Decision Tree Classifier to predict if a medal will be Gold (1) or not (0).
 
 
-Final Insights
+Final Insights :
+
 1.Top Countries: USA, USSR, and China dominate the medal tally.
 2.Top Athletes: Certain athletes repeatedly won multiple medals.
 3.Gender Trends: Female participation increased steadily from 1976 to 2008.
@@ -65,7 +66,8 @@ Final Insights
 5.SQL & Excel: Helped in structured queries and creating dashboards.
 
 
-Future Work
+Future Work :
+
 . Use advanced ML models (Random Forest, XGBoost) for better predictions.
 . Add more features like athlete age, height, weight for stronger models.
 . Extend dataset to include 2012–2024 Olympics.
