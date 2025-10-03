@@ -79,3 +79,15 @@ Future Work :
 . Add more features like athlete age, height, weight for stronger models.
 . Extend dataset to include 2012–2024 Olympics.
 . Build an interactive dashboard using Power BI or Tableau.
+
+
+<img width="1919" height="940" alt="Screenshot 2025-09-16 173901" src="https://github.com/user-attachments/assets/ff60c161-975e-4f8e-8bac-eaf714f39ecd" />
+
+
+<img width="1919" height="946" alt="Screenshot 2025-09-16 173922" src="https://github.com/user-attachments/assets/0fb4a9f2-a961-44da-beda-eca8b36e9c72" />
+
+<img width="1919" height="948" alt="Screenshot 2025-09-16 173942" src="https://github.com/user-attachments/assets/f5c77103-9fe3-42a9-a552-422434322be5" />
+
+<img width="1919" height="941" alt="Screenshot 2025-09-16 173957" src="https://github.com/user-attachments/assets/f99f10d1-0dcd-4489-ae26-7d4338147a92" />
+
+
